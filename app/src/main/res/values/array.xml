@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sample_provinsi">
+        <item>Aceh</item>
+        <item>Sumatra Utara</item>
+        <item>Sumatra Barat</item>
+        <item>Riau</item>
+        <item>Jambi</item>
+        <item>Sumatra Selatan</item>
+        <item>Bengkulu</item>
+        <item>Lampung</item>
+        <item>Banten</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+    </string-array>
+</resources>
